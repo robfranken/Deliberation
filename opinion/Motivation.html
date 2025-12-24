@@ -1,0 +1,114 @@
+{% extends "global/Page.html" %}
+
+{% block custom_styles %}
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+  @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
+
+  body {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .char-counter {
+    font-size: 0.9rem;
+  }
+
+  textarea[name="motivation"] {
+    min-height: 120px;
+    width: 100%;
+    resize: vertical;
+    font-size: 1rem;
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="d-flex align-items-center mb-4 p-3 rounded bg-light border">
+  <i class="fas fa-pen-nib me-3 text-primary" style="font-size:1.6rem;"></i>
+  <div>
+    <div class="text-muted small">Step 2</div>
+    <h4 class="mb-0 fw-semibold">Motivate your opinion</h4>
+  </div>
+</div>
+
+<p>
+  Below you see one of the statements again, together with the answer you submitted.
+  Please explain your reasoning in your own words (max <strong>{{ max_chars }} characters</strong>).
+</p>
+
+<div class="card mb-4 shadow-sm">
+  <div class="card-body">
+    <div class="mb-2">
+      <strong>Statement:</strong>
+    </div>
+    <div class="p-2 bg-light rounded">
+      {{ statement }}
+    </div>
+
+    <div class="mt-3">
+      <strong>Your answer:</strong>
+      <span class="badge bg-secondary ms-2">{{ answer }}</span>
+      <span class="text-muted ms-2">(−10 = totally disagree, 10 = totally agree)</span>
+    </div>
+  </div>
+</div>
+
+<div class="card mb-4 shadow-sm">
+  <div class="card-body">
+    <label class="form-label mb-3 d-block bg-light p-2 rounded">
+      <strong>Motivation (max {{ max_chars }} characters)</strong>
+    </label>
+
+    {{ form.motivation }}
+
+    <div class="d-flex justify-content-between mt-2">
+      <div class="form-text">
+        Please explain why you chose this answer.
+      </div>
+      <div class="text-muted char-counter">
+        <span id="charCount">0</span> / {{ max_chars }} characters
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="text-center mt-4">
+  {{ next_button }}
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const textarea = document.querySelector('textarea[name="motivation"]');
+    const counter = document.getElementById('charCount');
+    const maxChars = {{ max_chars }};
+    const nextBtn = document.querySelector('button.otree-btn-next');
+
+    if (textarea && counter) {
+      function updateCharCount() {
+        const chars = textarea.value.length;
+        counter.textContent = chars;
+
+        if (chars > maxChars) {
+          counter.classList.add('text-danger');
+        } else {
+          counter.classList.remove('text-danger');
+        }
+      }
+
+      textarea.addEventListener('input', updateCharCount);
+      updateCharCount();
+    }
+
+    if (nextBtn) {
+      nextBtn.addEventListener('click', function (event) {
+        const confirmed = confirm(
+          'Once submitted, your motivation cannot be changed. Do you want to continue?'
+        );
+        if (!confirmed) {
+          event.preventDefault();
+        }
+      });
+    }
+  });
+</script>
+{% endblock %}
