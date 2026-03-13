@@ -1,0 +1,110 @@
+---
+title: "**A study on reasoning and deliberation**" 
+output: 
+  html_document:
+    toc: false
+    toc_float: true
+    number_sections: false
+---
+
+----
+
+<div style="text-align:center; margin-top:30px;">
+  ![](images/opinion.png){width=30%}
+</div>
+
+<br>
+
+<style>
+/* Button styling */
+.button1 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 12px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: 0.3s;
+}
+
+.button1:hover {
+  background-color: #45a049;
+}
+
+/* Optional: responsive logos */
+.footer-logo img {
+  max-height: 120px;
+  width: auto;
+  margin: 0 20px;
+}
+</style>
+
+<script>
+function toggleText() {
+  var content = document.getElementById("myDIV");
+  var button = document.getElementById("myButton");
+
+  if (content.style.display === "none") {
+    content.style.display = "block";
+    button.innerHTML = "Read less";
+    // scroll to the expanded content smoothly
+    content.scrollIntoView({ behavior: "smooth", block: "start" });
+  } else {
+    content.style.display = "none";
+    button.innerHTML = "Read more";
+    // optional: scroll back to the top of the button
+    button.scrollIntoView({ behavior: "smooth", block: "center" });
+  }
+}
+</script>
+
+In this study, we are interested in how people form their opinions and engage in constructive discussion with others, based on a variety of topics. You should have received an invitation to participate in the study via Prolific. 
+
+<br>
+
+<div style="text-align:center; margin-top:10px;">
+  <button class="button1" onclick="toggleText()" id="myButton">Read more</button>
+</div>
+
+<div style="display:none; margin-top:15px;" id="myDIV">
+
+<br>
+
+Critical thinking and discussing our thoughts with others help people make better-informed decisions and contribute to society’s ability to work through collective issues.
+
+In this study, we are particularly interested in how people think through problems, weigh different arguments, and exchange ideas with others.
+
+Read the <a href="https://robfranken.net/deliberation.html" target="_blank"><b>information letter</b></a> for more details about the study.
+
+----
+
+## **You can contribute!** 
+
+As a participant, you will be asked to:
+
+1. Read a short scenario and provide your opinion, including a short argumentation.  
+2. Read the opinions and arguments of other participants. You may be asked to evaluate the argumentation of others.  
+3. Optionally, join a short online discussion with other participants via a chat room.
+
+This process is expected to take approximately **20 minutes**.
+
+----
+
+## **Reward**
+
+To thank participants for their time and effort, we reward them with:
+
+- **£2** for completing the short questionnaire  
+- **£3** for participating in the short online discussion
+
+</div>
+
+<div class="footer-logo" style="text-align:center; margin-top:50px; padding-top:20px; border-top:1px solid #ccc;">
+  <a href="https://www.ru.nl/" target="_blank">
+    <img src="images/RU_logo.jpg" alt="Radboud University">
+  </a>
+  <a href="https://www.uu.nl/" target="_blank">
+    <img src="images/UU_logo.jpg" alt="Utrecht University">
+  </a>
+</div>

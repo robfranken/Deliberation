@@ -1,0 +1,17 @@
+name: "Reasoning and Deliberation"
+favicon: favicon.ico
+navbar:
+  left:
+    - icon: fa-home
+      href: index.html
+    - text: "Information letter"
+      href: consent.html
+    - text: "Consent form"
+      href: form.html
+output:
+  html_document:
+    theme: cerulean 
+    highlight: default
+output_dir: "docs"
+
+

@@ -1,0 +1,39 @@
+---
+title: "**Consent form**"
+output: 
+  html_document:
+    toc: false
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+---
+
+<br>
+
+## for participation in the scientific study:
+### *Reasoning and Deliberation*
+
+----
+
+<br>
+
+By clicking **"I CONSENT"**:
+
+**You confirm that:**
+
+- You have read and understood the information letter about the study.
+
+- You voluntarily agree to participate and give consent for the collection, use, and storage of your data as described.
+
+**You understand that:**
+
+- You have the right to withdraw your consent at any time without giving a reason and without negative consequences, by contacting [Rob Franken](mailto:r.j.f.franken@uu.nl?subject=The%20Reasoning%20and%20Deliberation%20study).
+
+- You have the right to request deletion of your data until an anonymized version has been made publicly available.
+
+- Your personal data are processed according to the <a href="https://www.uu.nl/en/organisation/practical-matters/privacy/privacy-statements-utrecht-university/privacy-statement-participants-scientific-research" target="_blank">privacy statement of Utrecht University</a>.
+
+**You agree that:**
+
+- Your research data will be collected for scientific purposes and that an anonymized version of these data may be made publicly available.

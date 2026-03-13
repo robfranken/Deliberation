@@ -1,0 +1,84 @@
+---
+title: "**Onderzoek naar sport apps**"
+output: 
+  html_document:
+
+    toc:  false
+    toc_float: true
+    number_sections: false
+---
+
+----
+
+<div class="row" style="padding-top: 40px;">
+<div class="col-sm-6">
+
+### Radboud Universiteit, Nijmegen
+
+----
+  
+Beste student,
+
+<br>
+
+Jij start deze periode met een cursus Krachttraining! Graag vragen we je aandacht voor een onderzoek naar de impact van sport apps. Dit onderzoek wordt uitgevoerd door de Radboud Universiteit in samenwerking met het Radboud Sportcentrum (RSC). Het onderzoek is onderdeel van het grote onderzoeksproject *TRansition Into Active Living* [(TRIAL)](https://www.ru.nl/activeliving/onderzoek/vm-onderzoek/trial/).        
+
+<br>
+
+
+## Achtergrond
+
+Het moeilijkste aan sport is gemotiveerd blijven. Gelukkig zijn er apps die je doorzettingsvermogen helpen stimuleren. **Maar werken deze apps echt, en waarom?** De Radboud Universiteit wil deze vragen beantwoorden. Deze kennis helpt het Radboud Sportcentrum en andere organisaties om duurzame sportdeelname te promoten.
+  
+----
+
+</div>
+<div class="col-sm-6">
+
+![](images/apps.jpg)
+
+
+<br>
+
+### **En jij kunt daar aan bijdragen!** 
+
+<br>
+
+*Neem je deel aan ons onderzoek?* 
+
+We willen je vragen om gedurende de cursus Krachttraining jouw sportactiviteiten bij te houden in een sport app. Daarnaast vragen we je bepaalde challenges/opdrachten te voltooien met de app. Voordat je begint, vul je een online vragenlijst in, waarin we je een aantal vragen stellen over jouw sport motivaties. Na de cursus willen we je nogmaals vragen om een korte vragenlijst in te vullen, over hoe jij het gebruik van de app ervaren hebt. 
+
+
+
+Klik de link hieronder om deel te nemen:
+
+<br> 
+
+<font size = "5"> **[Start de vragenlijst](https://cdn.history.com/sites/2/2018/04/AP_9510230460-E.jpeg)**</font>
+
+
+<br>
+
+<br>
+
+
+</div>
+
+
+## Beloning 
+
+Deelname is volledig vrijwillig, maar het is van belang dat zo veel mogelijk studenten meedoen. Om je te bedanken voor je deelname, krijg je:
+
+#### - **een <font size ="4" color="red"> vergoeding van €5,- </font> na het invullen van de eerste vragenlijst**
+#### - **<font size ="4" color="red"> nogmaals  €5,- </font>, als je de app consistent gebruikt gedurende de cursusperiode**
+#### - **een <font size ="4" color="red"> kans op een geldprijs van €10,-  </font>, als je de challenge/opdracht voltooid.**
+
+<br>
+
+
+## Meer info
+
+<p> Bekijk het <b>[informatieformulier](https://robfranken.github.io/RSC/consent2.html)</b> voor meer informatie over het onderzoek, alsmede de voorwaarden.
+
+
+Benieuwd naar de uiteindelijke resultaten? Na afloop van het onderzoek delen we de resultaten op [deze website](https://robfranken.github.io/RSC/results.html), en op het <b>[Open Science Framework (OSF)](https://osf.io/)</b> </p>.

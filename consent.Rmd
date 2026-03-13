@@ -1,0 +1,113 @@
+---
+title: "**Information letter**"
+output: 
+  html_document:
+    toc: false
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+---
+
+<br>
+
+## for participation in the scientific study:
+### *Reasoning and Deliberation*
+
+----
+
+<br>
+
+# **1. Introduction**
+
+This study is conducted by researchers from the Department of Sociology at Radboud University and Utrecht University.  
+The study is led by [Rob Franken](mailto:r.j.f.franken@uu.nl?subject=The%20Reasoning%20and%20Deliberation%20study).
+
+The purpose of this study is to better understand how people form opinions, evaluate arguments, and engage in discussions with others about different topics.
+
+<br>
+
+# **2. About the study**
+
+In everyday life, people regularly form opinions about social, political, and practical issues. These opinions often develop through a combination of individual reasoning and discussions with others.
+
+This study aims to better understand how people think through arguments, how they evaluate different viewpoints, and how discussions with others may influence these processes.
+
+If you decide to participate, you will be asked to complete a short online task that includes:
+
+- Reading a short scenario  
+- Providing your opinion and briefly explaining your reasoning  
+- Reading the opinions of other participants and possibly evaluating their arguments  
+- Optionally participating in a short online discussion with other participants  
+
+The study is expected to take approximately **20 minutes**.
+
+The Faculty Ethics Review Committee of the Faculty of Social Sciences at Utrecht University has approved this study (reference number: 25-0348).
+
+
+<br>
+
+# **3. Use of your data**
+
+During the study, some information will be collected. This includes:
+
+- Your responses to the questions in the study  
+- Your evaluations of arguments  
+- Messages written during the (optional) discussion task
+- Basic background information such age, gender, education, and ethnicity (personal data).
+
+The collected data will be used only for research purposes. The information you provide will be treated confidentially. The data will be stored securely and will only be accessible to the research team. You may request deletion of your data before anonymization by contacting [Rob Franken](mailto:r.j.f.franken@uu.nl?subject=The%20Reasoning%20and%20Deliberation%20study). Once data are anonymized, deletion is no longer possible.
+
+When the results of this study are reported in scientific publications or presentations, the findings will always be presented in anonymized form. Individual participants cannot be identified in any publication.
+
+An anonymized version of the research dataset may be stored in a scientific data archive so that other researchers can verify or build upon the findings. In this dataset, no information will be included that could identify you personally.
+
+<br>
+
+# **4. Voluntary participation**
+
+Participation in this study is entirely voluntary.
+
+You are free to stop participating at any moment without providing a reason. Stopping participation will have no negative consequences for you.
+
+<br>
+
+# **5. Compensation**
+
+Participants receive compensation through Prolific for their participation.
+
+The compensation consists of:
+
+- **£2** for completing the questionnaire  
+- **£3** for participating in the optional discussion task
+
+<br>
+
+# **6. Contact information**
+
+If you have any questions about the study, you can contact the responsible researcher:
+
+**Rob Franken**  
+Utrecht University – Department of Sociology  
+Email: r.j.f.franken@uu.nl
+
+<br>
+
+# **7. Closing**
+
+Thank you for considering participation in this study!
+
+Kind regards,
+
+<br>
+
+Dr. Rob Franken
+
+Dr. Nella Geurts
+
+Dr. Roza Meuleman
+
+Prof. dr. Jochem Tolsma
+
+
+----
