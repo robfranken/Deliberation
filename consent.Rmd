@@ -38,11 +38,11 @@ If you decide to participate, you will be asked to complete a short online task 
 - Reading a short scenario  
 - Providing your opinion and briefly explaining your reasoning  
 - Reading the opinions of other participants and possibly evaluating their arguments  
-- Optionally participating in a short online discussion with other participants  
+- Possibly  participating in a short online discussion with other participants  
 
-The study is expected to take approximately **20 minutes**.
+The study is expected to take a maximum of **30 minutes**.
 
-The Faculty Ethics Review Committee of the Faculty of Social Sciences at Utrecht University has approved this study (reference number: 25-0348).
+The Faculty Ethics Review Committee of the Faculty of Social Sciences at Utrecht University has approved this study [reference number to be included].
 
 
 <br>
@@ -76,10 +76,8 @@ You are free to stop participating at any moment without providing a reason. Sto
 
 Participants receive compensation through Prolific for their participation.
 
-The compensation consists of:
-
-- **£2** for completing the questionnaire  
-- **£3** for participating in the optional discussion task
+- All participants receive a base payment of **£4.00** for completing the study, which includes the reading and writing tasks, the waiting phase, and the final (short) questionnaire.
+- Participants (randomly) assigned to a discussion group receive an additional bonus of **£1.50** upon completion of the discussion task, resulting in a total payment of **£5.50**.
 
 <br>
 
